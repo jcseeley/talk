@@ -1,8 +1,8 @@
-# _{Application Name}_
+# Talk
 
 #### By Jase Seeley
 
-#### Talk
+#### A webpage that allows you to have a conversation with it.
 
 ## Technologies Used
 
