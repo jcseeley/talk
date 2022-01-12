@@ -18,7 +18,7 @@ Have a conversation with the webpage!
 
 ## Setup/Installation Requirements
 
-* Visit https://jcseeley.github.io/
+* Visit https://jcseeley.github.io/talk
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open the index.html file in your browser.
